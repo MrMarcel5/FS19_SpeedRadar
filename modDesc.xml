@@ -34,7 +34,7 @@
         <text name="tooFastMessage">
             <en><![CDATA[You drove %s too fast (max: %s) and have to pay %s]]></en>
             <fr><![CDATA[Vous avez conduit %s trop vite (max : %s) et devez payer %s]]></fr>
-            <de><![CDATA[Sie fuhren %s zu schnell. (Erlaubt: %s) Geldstrafe beträgt %s]]></de>
+            <de><![CDATA[Sie fuhren %s zu schnell. (Erlaubt sind: %s) Geldstrafe beträgt %s]]></de>
             <es><![CDATA[Has conducido sobre el límite de velocidad a %s (máx: %s) y debes pagar %s]]></es>
             <nl><![CDATA[Jij reed %s te hard (max: %s) en moet %s betalen]]></nl>
             <pl><![CDATA[Jechałeś o %s za szybko (przy ograniczeniu do: %s). Mandat: %s]]></pl>
