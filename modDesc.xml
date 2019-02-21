@@ -13,7 +13,7 @@
     <description>
         <en><![CDATA[This mod includes speed radars which will fine you if your drive off the limits.]]></en>
         <fr><![CDATA[Ce mod inclus des radars de vitesse qui vous infligeront une amende en cas de dépassement des limites.]]></fr>
-        <de><![CDATA[Im Paket enthalten sind Blitzer, welche bei einer Geschwindigkeitsüberschreitung, Differenzabhängig, Geldstrafen ausstellt.]]></de>
+        <de><![CDATA[Im Paket enthalten sind Blitzer, welche bei einer Geschwindigkeitsüberschreitung, Differenzabhängig, Geldstrafen ausstellen.]]></de>
         <es><![CDATA[Este mod incluye radares de velocidad que te multarán si conduces sobre los límites.]]></es>
         <nl><![CDATA[Deze mod bevat snelheidscontroles die jou een boete geven als je te snel rijd.]]></nl>
         <pl><![CDATA[Ten mod zawiera radary, które mogą Cię ukarać za przekroczenie dozwolonej prędkości.]]></pl>
@@ -34,7 +34,7 @@
         <text name="tooFastMessage">
             <en><![CDATA[You drove %s too fast (max: %s) and have to pay %s]]></en>
             <fr><![CDATA[Vous avez conduit %s trop vite (max : %s) et devez payer %s]]></fr>
-            <de><![CDATA[???]]></de>
+            <de><![CDATA[Sie fuhren %s zu schnell. (Erlaubt: %s) Geldstrafe beträgt %s]]></de>
             <es><![CDATA[Has conducido sobre el límite de velocidad a %s (máx: %s) y debes pagar %s]]></es>
             <nl><![CDATA[Jij reed %s te hard (max: %s) en moet %s betalen]]></nl>
             <pl><![CDATA[Jechałeś o %s za szybko (przy ograniczeniu do: %s). Mandat: %s]]></pl>
